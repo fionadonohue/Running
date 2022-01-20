@@ -1,5 +1,4 @@
 # Why you should start running
-<!DOCTYPE html>
 <html>
 <head>
 Exercise is important for both physical and mental health. If you're looking to way to start, running is an easy, affordable way to get your exercise without going to the gym.
@@ -16,7 +15,7 @@ Exercise is important for both physical and mental health. If you're looking to 
   Brands such as Nike and Adidas have great options in various different styles, such as the ones shown below. <p>
   
   <h3>Nike Air Zoom Pegasus</h3>
-  <img src="quest-4-mens-road-running-shoes-8k2ngj.png.jpeg">   <href=" https://www.nike.com/t/air-zoom-pegasus-38-mens-road-running-shoes-lq7PZZ/CW7356-002">
+  <img src="quest-4-mens-road-running-shoes-8k2ngj.png.jpeg">
 
   
   <h3>Womans Adidas X9000L4</h3>
@@ -24,6 +23,3 @@ Exercise is important for both physical and mental health. If you're looking to 
     
   <h2>Aethleisure</h2>
 <p>Wearing the right clothes while running is important to give your body enough flexability to move, and enough room to breathe and prevent sweating. Brands like Lululemon, Set Active, and Nike have cute, comfortable, high quality pieces that will last. <p> 
-  </body>
-  </html>
- 
