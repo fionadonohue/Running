@@ -16,8 +16,8 @@ Exercise is important for both physical and mental health. If you're looking to 
   Brands such as Nike and Adidas have great options in various different styles, such as the ones shown below. <p>
   
   <h3>Nike Air Zoom Pegasus</h3>
-  <a href=" https://www.nike.com/t/air-zoom-pegasus-38-mens-road-running-shoes-lq7PZZ/CW7356-002">
-  <img src="quest-4-mens-road-running-shoes-8k2ngj.png.jpeg"> 
+  <img src="quest-4-mens-road-running-shoes-8k2ngj.png.jpeg">   <href=" https://www.nike.com/t/air-zoom-pegasus-38-mens-road-running-shoes-lq7PZZ/CW7356-002">
+
   
   <h3>Womans Adidas X9000L4</h3>
   <img src="X9000LR-feature-2.png.webp">
