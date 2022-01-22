@@ -1,14 +1,10 @@
 # Why you should start running
 <!DOCTYPE html>
 <html>
-  
-
 <head>
 <title>Running</title>
-</head>
-  
-<body>
-    
+</head>  
+<body>   
 Exercise is important for both physical and mental health. If you're looking to way to start, running is an easy, affordable way to get your exercise without going to the gym.
   
   <h1>How to start</h1>
