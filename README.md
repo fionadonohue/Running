@@ -1,4 +1,3 @@
-# Why you should start running
 <!DOCTYPE html>
 <html>
 <head>
@@ -6,7 +5,7 @@
 </head>  
 <body>   
 Exercise is important for both physical and mental health. If you're looking to way to start, running is an easy, affordable way to get your exercise without going to the gym.
-  <h1>How to start</h1>
+  <h1 style="font-family:ariel">How to start</h1>
 <p>To start running, all you need is a pair of good sneakers and some aethleisure. There is no special equitment or previous experience needed, and you don't need to worry about going to a gym as long as you live in a neighborhood with sidewalks!</p>
   <img src="a45dc13401cc72f663cb482eb30e3bc2.jpg" alt="girl running"> <!--picture of someone running-->
   <h2>Shoes</h2>
