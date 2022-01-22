@@ -12,7 +12,7 @@ Exercise is important for both physical and mental health. If you're looking to 
   <h2>Shoes</h2>
   <p style="font-family:'times new roman'"> While running shoes can be expensive, they last for a long time and are a good investment. It's important to use shoes that support your feet and ankles, sneakers with little support--like vans or converse--are not ideal. If you run with these types of shoes, you run the risk of getting injured, and your experience will be less enjoyable.
   
-  Brands such as Nike and Adidas have great options in various different styles, such as the ones shown below. <p>
+  Brands such as Nike and Adidas have great options in various different styles, such as the ones shown below. </p>
   
   <h3>Nike Air Zoom Pegasus</h3>
   <img src="quest-4-mens-road-running-shoes-8k2ngj.png.jpeg">
