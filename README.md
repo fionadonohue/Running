@@ -31,4 +31,5 @@ Exercise is important for both physical and mental health. If you're looking to 
     
   <h2>Aethleisure</h2>
 <p>Wearing the right clothes while running is important to give your body enough flexability to move, and enough room to breathe and prevent sweating. Brands like Lululemon, Set Active, and Nike have cute, comfortable, high quality pieces that will last. <p> 
+    </body>
   </html>
