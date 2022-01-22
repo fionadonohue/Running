@@ -17,11 +17,11 @@ Exercise is important for both physical and mental health. If you're looking to 
   Brands such as Nike and Adidas have great options in various different styles, such as the ones shown below. </p>
   
   <h3>Nike Air Zoom Pegasus</h3>
-  <img src="quest-4-mens-road-running-shoes-8k2ngj.png.jpeg">
+  <img src="quest-4-mens-road-running-shoes-8k2ngj.png.jpeg" alt="men's adidas">
 
   
   <h3>Womans Adidas X9000L4</h3>
-  <img src="X9000LR-feature-2.png.webp">
+  <img src="X9000LR-feature-2.png.webp" alt="women's adidas">
     
   <h2>Aethleisure</h2>
 <p>Wearing the right clothes while running is important to give your body enough flexability to move, and enough room to breathe and prevent sweating. Brands like Lululemon, Set Active, and Nike have cute, comfortable, high quality pieces that will last. <p> 
