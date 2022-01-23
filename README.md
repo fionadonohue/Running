@@ -7,7 +7,7 @@
   <h1 style="border:2px solid Tomato;>Running</h1>
 Exercise is important for both physical and mental health. If you're looking to way to start, running is an easy, affordable way to get your exercise without going to the gym.
   <h2 style="font-family:ariel">How to start</h1>
-<p>To start running, all you need is a pair of good sneakers and some aethleisure. There is no special equitment or previous experience needed, and you don't need to worry about going to a gym as long as you live in a neighborhood with sidewalks!</p>
+<p style="font-family:courier;">>To start running, all you need is a pair of good sneakers and some aethleisure. There is no special equitment or previous experience needed, and you don't need to worry about going to a gym as long as you live in a neighborhood with sidewalks!</p>
   <img src="a45dc13401cc72f663cb482eb30e3bc2.jpg" alt="girl running"> <!--picture of someone running-->
   <h3>Shoes</h2>
   <p> While running shoes can be expensive, they last for a long time and are a good investment. It's important to use shoes that support your feet and ankles, sneakers with little support--like vans or converse--are not ideal. If you run with these types of shoes, you run the risk of getting injured, and your experience will be less enjoyable.
