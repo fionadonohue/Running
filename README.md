@@ -2,7 +2,8 @@
 <html>
 <head>
 <title>Running</title>
-</head>  
+  <link rel='stylesheet" href="style css">
+</head>
 <body> 
   <h1 style="border:2px solid Tomato;>Running</h1>
 Exercise is important for both physical and mental health. If you're looking to way to start, running is an easy, affordable way to get your exercise without going to the gym.
