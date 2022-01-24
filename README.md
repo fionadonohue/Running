@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Running</title>
-  <link rel='stylesheet" href="style css">
 </head>
-<body> 
+<body style="background-color:powderblue;"> 
   <h1 style="border:2px solid Tomato;>Running</h1>
 Exercise is important for both physical and mental health. If you're looking to way to start, running is an easy, affordable way to get your exercise without going to the gym.
   <h2 style="font-family:ariel">How to start</h1>
@@ -14,9 +12,9 @@ Exercise is important for both physical and mental health. If you're looking to 
   <p> While running shoes can be expensive, they last for a long time and are a good investment. It's important to use shoes that support your feet and ankles, sneakers with little support--like vans or converse--are not ideal. If you run with these types of shoes, you run the risk of getting injured, and your experience will be less enjoyable.
   Brands such as Nike and Adidas have great options in various different styles, such as the ones shown below. </p>
   <h4>Nike Air Zoom Pegasus</h3>
-  <img src="quest-4-mens-road-running-shoes-8k2ngj.png.jpeg" alt="men's adidas">
+  <img src="quest-4-mens-road-running-shoes-8k2ngj.png.jpeg" alt="men's adidas" width="50%" height="50%">
   <h4>Womans Adidas X9000L4</h3>
-  <img src="X9000LR-feature-2.png.webp" alt="women's adidas">  
+  <img src="X9000LR-feature-2.png.webp" alt="women's adidas" width="50%" height="50%">  
   <h3>Aethleisure</h2>
 <p>Wearing the right clothes while running is important to give your body enough flexability to move, and enough room to breathe and prevent sweating. Brands like Lululemon, Set Active, and Nike have cute, comfortable, high quality pieces that will last. <p> 
     </body>
