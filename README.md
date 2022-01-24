@@ -3,7 +3,7 @@
 <head>
 </head>
 <body style="background-color:powderblue;"> 
-  <h1 style="border:2px solid Tomato;>Running</h1>
+  <h1 style=Running/h1>
 Exercise is important for both physical and mental health. If you're looking to way to start, running is an easy, affordable way to get your exercise without going to the gym.
   <h2 style="font-family:ariel">How to start</h1>
 <p style="font-family:courier;">>To start running, all you need is a pair of good sneakers and some aethleisure. There is no special equitment or previous experience needed, and you don't need to worry about going to a gym as long as you live in a neighborhood with sidewalks!</p>
