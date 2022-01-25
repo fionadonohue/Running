@@ -1,6 +1,4 @@
-body {
-  background-color: white;
+#p1{
+  background-color: white
 }
-body {
-  font-family: Arial;
-}
+#h{font-family:'Didot'; border:3px; border-style:solid; border-color:#FFFF}
