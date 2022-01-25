@@ -1,4 +1,16 @@
-#p1{
+#p2{
   background-color: white
 }
-#h{font-family:'Didot'; border:3px; border-style:solid; border-color:#FFFF}
+#heading1{font-family:'Didot'; border:3px; border-style:solid; border-color:#FFFF}
+.history{color: #4B4B4B;
+}
+#historypic {
+    max-width:80%;
+    height:auto;
+}
+body{
+  border: 10px solid white
+}
+img{
+  box-shadow:5px 10px;
+}
