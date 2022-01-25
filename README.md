@@ -16,11 +16,11 @@
   Brands like Nike and Adidas have great options in various different styles, such as the ones shown below. <p>
 
   <h4>Nike Air Zoom Pegasus</h4>
-  <img src="quest-4-mens-road-running-shoes-8k2ngj.png.jpeg" width=".5" height=".5" img alt="mens running shoes">
+  <img src="quest-4-mens-road-running-shoes-8k2ngj.png.jpeg" width="500" height="550" img alt="mens running shoes">
 
 
   <h4>Womans Adidas X9000L4</h4>
-  <img src="X9000LR-feature-2.png.webp" width=".5" height=".5">
+  <img src="X9000LR-feature-2.png.webp" width="500" height="350">
   <h2>Aethleisure</h2>
 <p>Wearing the right clothes while running is important to give your body enough flexability to move, and enough room to breathe and prevent sweating. Brands like Lululemon, Set Active, and Nike have cute, comfortable, high quality pieces that will last. </p>
 </body>
