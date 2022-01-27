@@ -1,16 +1,19 @@
 #heading1{font-family:'Didot'; border:3px; border-style:solid; border-color:#FFFF}
+
 .history{color: #4B4B4B;
 }
+
 #historypic {
     max-width:80%;
     height:auto;
-}
-body{
-  border: 10px solid white
 }
 img{
   box-shadow:5px 10px;
 }
 body {
   font-size-adjust: 0.3;
+}
+body{
+  background-color: lightgrey
+
 }
